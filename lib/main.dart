@@ -46,7 +46,7 @@ class _HomePageState extends State<HomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Quiz App"),
+        title: Text("Quiz"),
         elevation: 0.0,
       ),
       body: RefreshIndicator(
